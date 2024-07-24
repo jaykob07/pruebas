@@ -89,6 +89,12 @@ webapp/
 |-- ...
 ```
 
-El repositorio de la prueba debera estar publicado en `github` de manera publica con el nombre `prueba-celsia-internet`
+El repositorio de la prueba deberá estar publicado en `github` de manera pública con el nombre `prueba-celsia-internet` usando git-flow por desarrollador.
+
+```
+main/
+|-- develop
+||-- <nickname desarrollador>
+```
 
 Por último, y no menos importante, te deseamos mucha suerte y esperamos que disfrutes haciendo la prueba. El objetivo es evaluar tu conocimiento, capacidad de adaptabilidad y habilidad para resolver problemas.
