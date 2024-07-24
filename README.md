@@ -91,4 +91,4 @@ webapp/
 
 El repositorio de la prueba debera estar publicado en `github` de manera publica con el nombre `prueba-celsia-internet`
 
-Por último, y no menos importante, te deseamos mucha suerte y esperamos que disfrutes haciendo la prueba. El objetivo es evaluar tu conocimiento, tu capacidad de adaptabilidad y tu habilidad para resolver problemas.
+Por último, y no menos importante, te deseamos mucha suerte y esperamos que disfrutes haciendo la prueba. El objetivo es evaluar tu conocimiento, capacidad de adaptabilidad y habilidad para resolver problemas.
