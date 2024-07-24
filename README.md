@@ -11,5 +11,16 @@ El ejercicio consiste en implementar un backend y fontend con desplegados en con
 Las tablas donde se almacena la información son las siguientes:
 
 ```
+CREATE TABLE clientes {
+  identificacion VARCHAR(20) NOT NUL PRIMARY KEY,
+  nombres VARCHAR(80) NOT NULL,
+  apellidos VARCHAR(80) NOT NULL,
+  tipoIdentificacion VARCHAR(2) NOT NULL,
+  fechaNacimiento DATE NOT NULL,
+  numeroCelular VARCHAR(20) NOT NULL,
+  correoElectronico VARCHAR(80) NOT NULL
+};
+
+
 
 ```
