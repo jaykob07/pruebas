@@ -100,7 +100,7 @@ Por último, y no menos importante, te deseamos mucha suerte y esperamos que dis
 
 # PRUEBA TEORICA
 
-Para el desarrollo de la prueba teorica, tendras que escribir tus respuestas en el archivo README.md del repositorio.
+Para el desarrollo de la prueba teórica, tendrás que escribir tus respuestas en el archivo README.md del repositorio, tomando como referencia la aplicación desarrollada en la `PRUEBA TÉCNICA DE DESARROLLO`.
 
 ## PREGUNTAS
 
