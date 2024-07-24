@@ -94,7 +94,7 @@ El repositorio de la prueba deberá estar publicado en `github` de manera públi
 ```
 main/
 |-- develop
-||-- <nickname desarrollador>
+||-- <desarrollador>
 ```
 
 Por último, y no menos importante, te deseamos mucha suerte y esperamos que disfrutes haciendo la prueba. El objetivo es evaluar tu conocimiento, capacidad de adaptabilidad y habilidad para resolver problemas.
