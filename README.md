@@ -70,7 +70,7 @@ TIPS:
 
 3. Se evaluará el uso de patrones de diseño, en backend y frontend, la configuración de despliegue en contenedores y de la imagen a desplegar.
 
-4. En el docker-compose se debe incluir la configuración del servicio de base de datos que haya escogido y una politica de manejo de logs para cada servicio.
+4. En el docker-compose se debe incluir la configuración del servicio de base de datos que haya escogido y una política de manejo de logs para cada servicio.
 
 ## ENTREGABLE
 
