@@ -48,7 +48,7 @@ Para la prueba se deben crear las tablas en el motor de base de datos de su pref
 
 3. Implementar un formulario que permita registrar los servicios contratados de los clientes. `Nota: Tener en cuenta integridad referencial.`
 
-4. Implementar un formulario para la consultar por número de identificación la información de un cliente y los servicios que tiene contratados.
+4. Implementar un formulario para la consulta por número de identificación, la información de un cliente y los servicios que tiene contratados.
 
 TIPS:
 
