@@ -36,16 +36,17 @@ Para la prueba se debe crear las tablas en el motor de base de datos de su prefe
 
 ## Puntos de la prueba
 
-1. Implemente en el lenguaje de su preferencia, una `CRUD (Create, Read, Update and Delete)` que permita capturar la información de los clientes.
+1. Implemente en el lenguaje de su preferencia, una `CRUD (Create, Read, Update and Delete)` que permita capturar y administrción de la información de los clientes.
 
-Tener en cuenta que los controles a utilizar deben realizar las siguientes validaciones:
-• No dejar datos en blanco.
-• El tipo de dato, de acuerdo con la estructura en la base de datos.
-• Si el registro ya existe muestre el mensaje “el registro ya existe”.
+2. Se deben realizar las siguientes validaciones:
 
-2. Implementar un formulario que permita registrar los servicios contratados de los clientes. Nota: Tener en cuenta integridad referencial.
+   - No dejar datos en blanco.
+   - El tipo de dato, de acuerdo con la estructura en la base de datos.
+   - Si el registro ya existe muestre el mensaje “el registro ya existe”.
 
-3. Implementar un formulario para la consultar por número de identificación la información de un cliente y los servicios que tiene contratados.
+3. Implementar un formulario que permita registrar los servicios contratados de los clientes. Nota: Tener en cuenta integridad referencial.
+
+4. Implementar un formulario para la consultar por número de identificación la información de un cliente y los servicios que tiene contratados.
 
 TIPS:
 
