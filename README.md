@@ -22,5 +22,13 @@ CREATE TABLE clientes {
 };
 
 
-
+CREATE TABLE servicios {
+  identificacion VARCHAR(20) NOT NUL,
+  servicio VARCHAR(250) NOT NUL,
+  fechaInicio DATE NOT NULL,
+  ultimaFacturacion DATE NOT NULL,
+  ultimoPago INTEGER NOT NUL DEFAULT 0
+}
 ```
+
+Para la prueba se debe crear las tablas en el motor de base de datos de su preferencia. Sobre esta base se deben almacenar los registros de los clientes y servicios que se especifican para la prueba.
