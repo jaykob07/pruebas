@@ -10,7 +10,7 @@ El ejercicio consiste en implementar un backend y fontend con desplegados en con
 
 Las tablas donde se almacena la información son las siguientes:
 
-```
+```console
 CREATE TABLE clientes {
   identificacion VARCHAR(20) NOT NUL PRIMARY KEY,
   tipoIdentificacion VARCHAR(20) NOT NUL PRIMARY KEY,
