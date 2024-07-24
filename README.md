@@ -106,4 +106,4 @@ Para el desarrollo de la prueba teorica, tendras que escribir tus respuestas en 
 
 1. Elabore un diagrama de componentes de la aplicación.
 
-![diagrama](./aasets/diagrama.png)
+![diagrama](https://github.com/celsia-internet/pruebas/aasets/diagrama.png)
