@@ -104,22 +104,22 @@ Para el desarrollo de la prueba teorica, tendras que escribir tus respuestas en 
 
 ## PREGUNTAS
 
-1. Elabore un diagrama de componentes de la aplicación, el arhivo debes cargarlo en la siguiente ruta del repositorio `./assets/diagrama.png`
+1. Elabore un diagrama de componentes de la aplicación. Debe cargar el archivo en la siguiente ruta del repositorio: `./assets/diagrama.png`
 
-<img src="./assets/diagrama.png" alt="Diagrma" width="400" >
+<img src="./assets/diagrama.png" alt="Diagrama" width="400">
 
-2. ¿Qué mecanismos de seguridad incluirías a la aplicación, para garantizar la protección de acceso a los datos?
-
-RTA:
-
-3. ¿Que estrategia de escalabilidad recomendarías para la aplicación considerando que el crecimiento proyectado será de 1.000.000 de clientes por año?
+2. ¿Qué mecanismos de seguridad incluirías en la aplicación para garantizar la protección del acceso a los datos?
 
 RTA:
 
-4. ¿Qué patrón o patrones de diseño serían los recomendados para esta solución y como se implementaría? (Justifique)
+3. ¿Qué estrategia de escalabilidad recomendarías para la aplicación considerando que el crecimiento proyectado será de 1,000,000 de clientes por año?
 
 RTA:
 
-5. ¿Que recomendaciones harías para optimizar el manejo y la persistencia de datos de la aplicación, tomando en cuenta que esta aplicación tiene una alta transaccionalidad?
+4. ¿Qué patrón o patrones de diseño recomendarías para esta solución y cómo se implementarían? (Justifique)
+
+RTA:
+
+5. ¿Qué recomendaciones harías para optimizar el manejo y la persistencia de datos de la aplicación, teniendo en cuenta que esta aplicación tiene una alta transaccionalidad?
 
 RTA:
