@@ -13,7 +13,6 @@ Las tablas donde se almacena la información son las siguientes:
 ```console
 CREATE TABLE clientes {
   identificacion VARCHAR(20) NOT NUL PRIMARY KEY,
-  tipoIdentificacion VARCHAR(2) NOT NUL,
   nombres VARCHAR(80) NOT NULL,
   apellidos VARCHAR(80) NOT NULL,
   tipoIdentificacion VARCHAR(2) NOT NULL,
