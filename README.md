@@ -110,16 +110,16 @@ Para el desarrollo de la prueba teorica, tendras que escribir tus respuestas en 
 
 2. ¿Qué mecanismos de seguridad incluirías en la aplicación para garantizar la protección del acceso a los datos?
 
-RTA:
+- RTA:
 
 3. ¿Qué estrategia de escalabilidad recomendarías para la aplicación considerando que el crecimiento proyectado será de 1,000,000 de clientes por año?
 
-RTA:
+- RTA:
 
 4. ¿Qué patrón o patrones de diseño recomendarías para esta solución y cómo se implementarían? (Justifique)
 
-RTA:
+- RTA:
 
 5. ¿Qué recomendaciones harías para optimizar el manejo y la persistencia de datos de la aplicación, teniendo en cuenta que esta aplicación tiene una alta transaccionalidad?
 
-RTA:
+- RTA:
