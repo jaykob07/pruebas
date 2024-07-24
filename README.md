@@ -53,20 +53,22 @@ Para la prueba se deben crear las tablas en el motor de base de datos de su pref
 TIPS:
 
 1. Para el campo `tipoIdentificacion` ingresar solamente los siguientes valores:
-   CEDULA → CC
-   TARJETA IDENTIDAD → TI
-   CEDULA EXTRANJERIA → CE
-   REGISTRO CIVIL → RC
+
+- CEDULA → CC
+- TARJETA IDENTIDAD → TI
+- CEDULA EXTRANJERIA → CE
+- REGISTRO CIVIL → RC
 
 2. Para el campo `servicio` ingresar solamente los siguientes tipos:
-   Internet 200 MB
-   Internet 400 MB
-   Internet 600 MB
-   Directv Go
-   Paramount+
-   Win+
 
-3. Se evaluará el uso de patrones de diseño, tanto para backend como frontend. Así como la configuración de despliegue en contenedores con la configuración de la imagen a desplegar.
+- Internet 200 MB
+- Internet 400 MB
+- Internet 600 MB
+- Directv Go
+- Paramount+
+- Win+
+
+3. Se evaluará el uso de patrones de diseño, en backend y frontend, la configuración de despliegue en contenedores y de la imagen a desplegar.
 
 4. En el docker-compose se debe incluir la configuración del servicio de base de datos que haya escogido y una politica de manejo de logs.
 
