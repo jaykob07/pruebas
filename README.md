@@ -38,7 +38,7 @@ Para la prueba se deben crear las tablas en el motor de base de datos de su pref
 
 ## Puntos de la prueba
 
-1. Implemente en el lenguaje de su preferencia, una `CRUD (Create, Read, Update and Delete)` que permita capturar y administrción de la información de los clientes.
+1. Implemente en el lenguaje de su preferencia, una `CRUD (Create, Read, Update and Delete)` que permita capturar y administrar la información de los clientes y sus servicios.
 
 2. Se deben realizar las siguientes validaciones:
 
