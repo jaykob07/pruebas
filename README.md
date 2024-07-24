@@ -65,3 +65,28 @@ TIPS:
    Directv Go
    Paramount+
    Win+
+
+3. Se evaluará el uso de patrones de diseño, tanto para backend como frontend. Así como la configuración de despliegue en contenedores con la configuración de la imagen a desplegar.
+
+4. En el docker-compose se debe incluir la configuración del servicio de base de datos que haya escogido y una politica de manejo de logs.
+
+## ENTREGABLE
+
+Se espera como resultado un clone del repositorio `https://github.com/celsia-internet/pruebas.git`, con la siguienets estrcutura
+
+```
+api/
+|-- docker-compose.yml
+|-- Dockerfile
+|-- README.md
+|-- ...
+webapp/
+|-- docker-compose.yml
+|-- Dockerfile
+|-- README.md
+|-- ...
+```
+
+El repositorio de la prueba debera estar publicado en `github` de manera publica con el nombre `prueba-celsia-internet`
+
+Por último, y no menos importante, te deseamos mucha suerte y esperamos que disfrutes haciendo la prueba. El objetivo es evaluar tu conocimiento, tu capacidad de adaptabilidad y tu habilidad para resolver problemas.
