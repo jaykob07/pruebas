@@ -104,8 +104,6 @@ Para el desarrollo de la prueba teorica, tendras que escribir tus respuestas en 
 
 ## PREGUNTAS
 
-1. Elabore un diagrama de componentes de la aplicación.
+1. Elabore un diagrama de componentes de la aplicación, el arhivo debes cargargo en la siguiente tura del repositorio `./assets/diagrama.png`
 
 <img src="./assets/diagrama.png" alt="Diagrma" width="400" >
-
-![diagrama](./assets/diagrama.png)
