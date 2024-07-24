@@ -74,7 +74,7 @@ TIPS:
 
 ## ENTREGABLE
 
-Se espera como resultado un clone del repositorio `https://github.com/celsia-internet/pruebas.git`, con la siguienets estrcutura
+Se espera como resultado un clone del repositorio `https://github.com/celsia-internet/pruebas.git`, con la siguiente estructura.
 
 ```
 api/
