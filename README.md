@@ -44,7 +44,7 @@ Para la prueba se deben crear las tablas en el motor de base de datos de su pref
 
    - No dejar datos en blanco.
    - El tipo de dato, de acuerdo con la estructura en la base de datos.
-   - Si el registro ya existe muestre el mensaje `“el registro ya existe”`.
+   - Si el registro ya existe muestre el mensaje `“El registro ya existe”`.
 
 3. Implementar un formulario que permita registrar los servicios contratados de los clientes. `Nota: Tener en cuenta integridad referencial.`
 
