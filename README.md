@@ -97,3 +97,13 @@ main/
 ```
 
 Por último, y no menos importante, te deseamos mucha suerte y esperamos que disfrutes haciendo la prueba. El objetivo es evaluar tu conocimiento, capacidad de adaptabilidad y habilidad para resolver problemas.
+
+# PRUEBA TEORICA
+
+Para el desarrollo de la prueba teorica, tendras que escribir tus respuestas en el archivo README.md del repositorio.
+
+## PREGUNTAS
+
+1. Elabore un diagrama de componentes de la aplicación.
+
+![diagrama](./aasets/diagrama.png)
