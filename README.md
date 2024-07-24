@@ -34,7 +34,7 @@ CREATE TABLE servicios {
 }
 ```
 
-Para la prueba se debe crear las tablas en el motor de base de datos de su preferencia. Sobre esta base se deben almacenar los registros de los clientes y servicios que se especifican para la prueba.
+Para la prueba se deben crear las tablas en el motor de base de datos de su preferencia. Sobre esta base se deben almacenar los registros de los clientes y servicios que se especifican para la prueba.
 
 ## Puntos de la prueba
 
