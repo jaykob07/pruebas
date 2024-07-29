@@ -1,4 +1,4 @@
-# PRUEBA TÉCNICA DESARROLLO
+# 1. PRUEBA TÉCNICA DESARROLLO
 
 ## DESCRIPCIÓN DEL PROBLEMA
 
@@ -98,7 +98,7 @@ main/
 
 Por último, y no menos importante, te deseamos mucha suerte y esperamos que disfrutes haciendo la prueba. El objetivo es evaluar tu conocimiento, capacidad de adaptabilidad y habilidad para resolver problemas.
 
-# PRUEBA TEORICO-PRACTICA
+# 2. PRUEBA TEORICO-PRACTICA
 
 Para el desarrollo de la prueba teórica, tendrás que escribir tus respuestas en el archivo README.md del repositorio, tomando como referencia la aplicación desarrollada en la `PRUEBA TÉCNICA DE DESARROLLO`.
 
@@ -123,3 +123,12 @@ Para el desarrollo de la prueba teórica, tendrás que escribir tus respuestas e
 5. ¿Qué recomendaciones harías para optimizar el manejo y la persistencia de datos de la aplicación, teniendo en cuenta que esta aplicación tiene una alta transaccionalidad?
 
 - RTA:
+
+
+# 3. CASO PRACTICO
+
+Celsia internet en su proceso de expansión, se ha fijado como meta un crecimiento para los proximos 5 años donde se espera tener un millon de clientes. Para el que el proceso de facturación y recaudo sea efectivo, se requiere que el sistema de liquidación mensual de  procese en los tiempos de corte establecidos de acuerdo con los ciclos de facturación definidos,  los servicios que han sido prestados a sus clientes y las novedades reportadas en cada periodo. Que estrategias implementaría en el desarrollo de los componentes de liquidación y facturación masiva de servicios por ciclo y el recaudo de los pagos de las factura, buscando que el sistema sea robusto, escalable, resiliente, confiable y mantenible en el tiempo, ademas de la seguridad de la infomración y el tratamiento de los datos personales de los clientes.
+
+Describa o diseñe las estrategias que implentaría para dar solución a las caraterísticas deseadas en la implementación de los componentes descritos y justifique la prevalencia de ciertas caracteristicas sobre otras en la propuesta de solución.
+
+
