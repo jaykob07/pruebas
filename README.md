@@ -107,54 +107,76 @@ Para el desarrollo de la prueba teórica, tendrás que escribir tus respuestas e
 <img src="./assets/diagrama.png" alt="Diagrama" width="400">
 
 2.2. ¿Qué mecanismos de seguridad incluirías en la aplicación para garantizar la protección del acceso a los datos?
-
-- RTA:
+ 
+- RTA: EN EL CASO DE DJANGO Y C# CON .NET ya que son los lenguajes con los q estoy familiarizado hago el uso de CSRF token 
 
   2.3. ¿Qué estrategia de escalabilidad recomendarías para la aplicación considerando que el crecimiento proyectado será de 1,000,000 de clientes por año?
 
-- RTA:
+- RTA: la estrategia que utilizaria en el caso del lenguaje seria mirar la arquitectura como tal revisar el lenguaje mirar que tan actualizado esta
+- para presisndir o actualizar framworks migrar a tecnologia como asembly etc
 
   2.4. ¿Qué patrón o patrones de diseño recomendarías para esta solución y cómo se implementarían? (Justifique)
 
-- RTA:
+- RTA: patrones de diseños basados en POO ya que nos permite reultilizar codigo de manera mucho mas eficiente, microservicios en los cuales tambien
+- se ven reflejados estas mejoras
 
   2.5. ¿Qué recomendaciones harías para optimizar el manejo y la persistencia de datos de la aplicación, teniendo en cuenta que esta aplicación tiene una alta transaccionalidad?
 
-- RTA:
+- RTA: alojamiento en la nube usando tecnologia como azure databriks  para grandes cantidades de datos 
 
 # 3. Redes
 
 3.1. Explica la diferencia entre un router y un switch. ¿Cuándo usarías cada uno?
+router conecta se entrelaza entre distintas redes el switch lo hace de manera local
 
 3.2. Describe las siete capas del modelo OSI y menciona brevemente la función principal de cada una
 
+la aplicacion se encarga de transferir datos para asi presentarse de manera correcta ante la sesion la cual 
+inicia el transporte hacia la red para que haya un enlace y asi transmitir los datos, en esta descripcion se 
+desglosa el funcionamiento de manera breve las siete capas
+
+
 3.3. Explica las diferencias entre los protocolos TCP y UDP. Dar un ejemplo de cuándo usarías cada uno?
+el TCP es un protocolo orientado a la conexion mientras el UDP, EL TCP se usaria en casos como validasion SSH Y el UDP en video juegos
 
 3.4. ¿Qué es una máscara de subred y cómo se utiliza para dividir una red en subredes más pequeñas?
 
+una mascara de de subred es una direccion de 32 bits, conjunto binarioa para identificae el host del y el ip de la red 
+
 3.5. ¿Puedes mencionar algunos protocolos de enrutamiento dinámico y explicar brevemente cómo funcionan?
+
+algunos de los protocolos de enrutamiento serian RIP GRP una de sus ventajas es la disponibilidad y el estado de la red en lugar de configurarse de manera estatica
 
 # 4. Gestión de Proyectos
 
 4.1. ¿En qué grupos de procesos de dirección de proyectos es creado un presupuesto detallado del proyecto?
-
+en el grupo de inicio
 4.2. ¿En qué grupo de procesos de la dirección de proyectos es creada el acta de constitución del proyecto?
+en el grupo de planeacion
+4.3. El equipo de proyecto acaba de completar el primer cronograma y presupuesto del proyecto. La próxima cosa a hacer es:********\_******** Mediante metologias como SCRUM deglosar metas semanal para la ejecucion continua 
+del proyecto y asi minimizar y detectar fallas
 
-4.3. El equipo de proyecto acaba de completar el primer cronograma y presupuesto del proyecto. La próxima cosa a hacer es:********\_********
+4.4. Un primer cronograma del proyecto puede ser creado solamente después de crear: **********\_\_\_\_********** No creo que seria viable para un proyecto
 
-4.4. Un primer cronograma del proyecto puede ser creado solamente después de crear: **********\_\_\_\_**********
-
-4.5. Una persona que debe estar al mando durante la planificación de la gestión del proyecto es:************\_\_************
+4.5. Una persona que debe estar al mando durante la planificación de la gestión del proyecto es:************\_\_************ un Product managment es el que encarga de estar al pie de la ejecuicion y desarrollo del proyecto 
 
 4.6. ¿Cuál de son las entradas del grupo de procesos de inicio de un proyecto?
+Ideas, Informacion, Data
 
 4.7. El patrocinador del proyecto acaba de aprobar el acta de constitución del proyecto, ¿cuál es la próxima cosa a hacer?
+seleccionar el personal adecuasdo acorde a sus roles 
 
 4.8. Acaban de ser establecidas las restricciones de alto nivel del cronograma del proyecto. ¿En qué grupo de procesos de dirección de proyectos se encuentra?
 
+el grupo de seguimiento y control
+
 4.9. ¿Qué grupos de procesos deben ser incluidos en cada proyecto?
 
+planeacion ejecucion y monitoreo serian lo pilares para mi 
+
 4.10. ¿Qué grupo de procesos de la dirección de proyecto necesita normalmente el mayor tiempo y número de recursos?
+
+el grupo de ejecucion
 
 # 5. Caso práctico
 
