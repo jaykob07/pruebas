@@ -45,9 +45,9 @@ Para la prueba se deben crear las tablas en el motor de base de datos de su pref
 - El tipo de dato, de acuerdo con la estructura en la base de datos.
 - Si el registro ya existe muestre el mensaje `“El registro ya existe”`.
 
-  1.3. Implementar un formulario que permita registrar los servicios contratados de los clientes. `Nota: Tener en cuenta integridad referencial.`
+1.3. Implementar un formulario que permita registrar los servicios contratados de los clientes. `Nota: Tener en cuenta integridad referencial.`
 
-  1.4. Implementar un formulario para la consulta por número de identificación, la información de un cliente y los servicios que tiene contratados.
+1.4. Implementar un formulario para la consulta por número de identificación, la información de un cliente y los servicios que tiene contratados.
 
 TIPS:
 
@@ -133,5 +133,33 @@ Para el desarrollo de la prueba teórica, tendrás que escribir tus respuestas e
 3.4. ¿Qué es una máscara de subred y cómo se utiliza para dividir una red en subredes más pequeñas?
 
 3.5. ¿Puedes mencionar algunos protocolos de enrutamiento dinámico y explicar brevemente cómo funcionan?
+
+# 4. Gestión de Proyectos
+
+4.1. ¿En qué grupos de procesos de dirección de proyectos es creado un presupuesto detallado del proyecto?
+
+4.2. ¿En qué grupo de procesos de la dirección de proyectos es creada el acta de constitución del proyecto?
+
+4.3. El equipo de proyecto acaba de completar el primer cronograma y presupuesto del proyecto. La próxima cosa a hacer es:********\_********
+
+4.4. Un primer cronograma del proyecto puede ser creado solamente después de crear: **********\_\_\_\_**********
+
+4.5. Una persona que debe estar al mando durante la planificación de la gestión del proyecto es:************\_\_************
+
+4.6. ¿Cuál de son las entradas del grupo de procesos de inicio de un proyecto?
+
+4.7. El patrocinador del proyecto acaba de aprobar el acta de constitución del proyecto, ¿cuál es la próxima cosa a hacer?
+
+4.8. Acaban de ser establecidas las restricciones de alto nivel del cronograma del proyecto. ¿En qué grupo de procesos de dirección de proyectos se encuentra?
+
+4.9. ¿Qué grupos de procesos deben ser incluidos en cada proyecto?
+
+4.10. ¿Qué grupo de procesos de la dirección de proyecto necesita normalmente el mayor tiempo y número de recursos?
+
+# 5. Caso práctico
+
+Celsia internet en su proceso de expansión, se ha fijado como meta un crecimiento para los proximos 5 años donde se espera tener un millon de clientes. Para el que el proceso de facturación y recaudo sea efectivo, se requiere que el sistema de liquidación mensual de procese en los tiempos de corte establecidos de acuerdo con los ciclos de facturación definidos, los servicios que han sido prestados a sus clientes y las novedades reportadas en cada periodo. Que estrategias implementaría en el desarrollo de los componentes de liquidación y facturación masiva de servicios por ciclo y el recaudo de los pagos de las factura, buscando que el sistema sea robusto, escalable, resiliente, confiable y mantenible en el tiempo, ademas de la seguridad de la infomración y el tratamiento de los datos personales de los clientes.
+
+Describa o diseñe las estrategias que incluiría para dar solución a los requerimientos solicitados en la implementación de los componentes descritos (Justifique la priorización de ciertos atributos sobre otros atributos de calidad en la propuesta de solución).
 
 ### Por último, y no menos importante, te deseamos mucha suerte y esperamos que disfrutes haciendo la prueba. El objetivo es evaluar tu conocimiento, capacidad de adaptabilidad y habilidad para resolver problemas.
