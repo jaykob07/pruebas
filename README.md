@@ -41,9 +41,9 @@ Para la prueba se deben crear las tablas en el motor de base de datos de su pref
 
 1.2. Se deben realizar las siguientes validaciones:
 
-   - No dejar datos en blanco.
-   - El tipo de dato, de acuerdo con la estructura en la base de datos.
-   - Si el registro ya existe muestre el mensaje `“El registro ya existe”`.
+- No dejar datos en blanco.
+- El tipo de dato, de acuerdo con la estructura en la base de datos.
+- Si el registro ya existe muestre el mensaje `“El registro ya existe”`.
 
 1.3. Implementar un formulario que permita registrar los servicios contratados de los clientes. `Nota: Tener en cuenta integridad referencial.`
 
@@ -96,7 +96,6 @@ main/
 ||-- <desarrollador>
 ```
 
-
 # 2. PRUEBA TEORICO-PRACTICA
 
 Para el desarrollo de la prueba teórica, tendrás que escribir tus respuestas en el archivo README.md del repositorio, tomando como referencia la aplicación desarrollada en la `PRUEBA TÉCNICA DE DESARROLLO`.
@@ -111,18 +110,17 @@ Para el desarrollo de la prueba teórica, tendrás que escribir tus respuestas e
 
 - RTA:
 
-2.3. ¿Qué estrategia de escalabilidad recomendarías para la aplicación considerando que el crecimiento proyectado será de 1,000,000 de clientes por año?
+  2.3. ¿Qué estrategia de escalabilidad recomendarías para la aplicación considerando que el crecimiento proyectado será de 1,000,000 de clientes por año?
 
 - RTA:
 
-2.4. ¿Qué patrón o patrones de diseño recomendarías para esta solución y cómo se implementarían? (Justifique)
+  2.4. ¿Qué patrón o patrones de diseño recomendarías para esta solución y cómo se implementarían? (Justifique)
 
 - RTA:
 
-2.5. ¿Qué recomendaciones harías para optimizar el manejo y la persistencia de datos de la aplicación, teniendo en cuenta que esta aplicación tiene una alta transaccionalidad?
+  2.5. ¿Qué recomendaciones harías para optimizar el manejo y la persistencia de datos de la aplicación, teniendo en cuenta que esta aplicación tiene una alta transaccionalidad?
 
 - RTA:
-
 
 # 3. Redes
 
@@ -136,36 +134,26 @@ Para el desarrollo de la prueba teórica, tendrás que escribir tus respuestas e
 
 3.5. ¿Puedes mencionar algunos protocolos de enrutamiento dinámico y explicar brevemente cómo funcionan?
 
-
 # 4. Gestión de Proyectos
 
-4.1.	¿En qué grupos de procesos de dirección de proyectos es creado un presupuesto detallado del proyecto?
+4.1. ¿En qué grupos de procesos de dirección de proyectos es creado un presupuesto detallado del proyecto?
 
-4.2.	¿En qué grupo de procesos de la dirección de proyectos es creada el acta de constitución del proyecto?
+4.2. ¿En qué grupo de procesos de la dirección de proyectos es creada el acta de constitución del proyecto?
 
-4.3.	El equipo de proyecto acaba de completar el primer cronograma y presupuesto del proyecto. La próxima cosa a hacer es:_________________
+4.3. El equipo de proyecto acaba de completar el primer cronograma y presupuesto del proyecto. La próxima cosa a hacer es:********\_********
 
-4.4.	Un primer cronograma del proyecto puede ser creado solamente después de crear: ________________________
+4.4. Un primer cronograma del proyecto puede ser creado solamente después de crear: **********\_\_\_\_**********
 
-4.5.	Una persona que debe estar al mando durante la planificación de la gestión del proyecto es:__________________________
+4.5. Una persona que debe estar al mando durante la planificación de la gestión del proyecto es:************\_\_************
 
-4.6.	¿Cuál de son las entradas del grupo de procesos de inicio de un proyecto?
+4.6. ¿Cuál de son las entradas del grupo de procesos de inicio de un proyecto?
 
-4.7.	El patrocinador del proyecto acaba de aprobar el acta de constitución del proyecto, ¿cuál es la próxima cosa a hacer?
+4.7. El patrocinador del proyecto acaba de aprobar el acta de constitución del proyecto, ¿cuál es la próxima cosa a hacer?
 
-4.8.	Acaban de ser establecidas las restricciones de alto nivel del cronograma del proyecto. ¿En qué grupo de procesos de dirección de proyectos se encuentra?
+4.8. Acaban de ser establecidas las restricciones de alto nivel del cronograma del proyecto. ¿En qué grupo de procesos de dirección de proyectos se encuentra?
 
-4.9.	¿Qué grupos de procesos deben ser incluidos en cada proyecto?
+4.9. ¿Qué grupos de procesos deben ser incluidos en cada proyecto?
 
-4.10.	¿Qué grupo de procesos de la dirección de proyecto necesita normalmente el mayor tiempo y número de recursos?
-
-
-# 5. Caso práctico
-
-Celsia internet en su proceso de expansión, se ha fijado como meta un crecimiento para los proximos 5 años donde se espera tener un millon de clientes. Para el que el proceso de facturación y recaudo sea efectivo, se requiere que el sistema de liquidación mensual de  procese en los tiempos de corte establecidos de acuerdo con los ciclos de facturación definidos,  los servicios que han sido prestados a sus clientes y las novedades reportadas en cada periodo. Que estrategias implementaría en el desarrollo de los componentes de liquidación y facturación masiva de servicios por ciclo y el recaudo de los pagos de las factura, buscando que el sistema sea robusto, escalable, resiliente, confiable y mantenible en el tiempo, ademas de la seguridad de la infomración y el tratamiento de los datos personales de los clientes.
-
-Describa o diseñe las estrategias que incluiría para dar solución a los requerimientos solicitados en la implementación de los componentes descritos (Justifique la priorización de ciertos atributos sobre otros atributos de calidad en la propuesta de solución).
-
+4.10. ¿Qué grupo de procesos de la dirección de proyecto necesita normalmente el mayor tiempo y número de recursos?
 
 ### Por último, y no menos importante, te deseamos mucha suerte y esperamos que disfrutes haciendo la prueba. El objetivo es evaluar tu conocimiento, capacidad de adaptabilidad y habilidad para resolver problemas.
-
